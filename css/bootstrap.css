@@ -6330,4 +6330,10 @@ button.close {
     display: none !important;
   }
 }
+
+footer{
+  position: fixed;
+  bottom: 0;
+
+}
 /*# sourceMappingURL=bootstrap.css.map */
